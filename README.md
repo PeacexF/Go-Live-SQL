@@ -8,7 +8,9 @@ DB: postgres
 ### Setup
 
 before starting, run:
-`docker run --name go-db -e POSTGRES_PASSWORD=complex_and_hard_password -p 5432:5432 -d postgres`
+```
+docker run --name go-db -e POSTGRES_PASSWORD=complex_and_hard_password -p 5432:5432 -d postgres
+```
 
 installing a postgres driver:
 ```
