@@ -1,3 +1,7 @@
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-database-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
 ## Description
 
 Written in GO, cuz trying to learn the language.
